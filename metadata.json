@@ -1,0 +1,8 @@
+{
+  "name": "AutoApply AI - Resume Job Auto-Applier & Tracker",
+  "description": "Auto-apply to matching jobs using your resume and skills, tailor applications with AI, and track statuses via a live dashboard with email notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
